@@ -23,28 +23,28 @@ ___
 
 ~~删除线~~
 ___
-![字体](img/b.png "字体")
+![b](https://user-images.githubusercontent.com/54888015/64938698-60f46e00-d891-11e9-8160-6ecee9f44481.png)
 ## 三、引用
 ___
 >在引用的文字前加>，可以无限加
 ___
-![引用](img/c.png "引用")
+![c](https://user-images.githubusercontent.com/54888015/64938699-618d0480-d891-11e9-9524-ff2754afc022.png)
 
 ## 四、分割线
 ___
 >三个或者三个以上的 - 或者 * 都可以。如下图所示：
 ___
-![分割线](img/d.png "分割线")
+![d](https://user-images.githubusercontent.com/54888015/64938701-618d0480-d891-11e9-83d0-afc78bdd08b1.png)
 
 ## 五、图片
 ___
 >![图片alt](图片地址 ''图片title'')图片alt就是显示在图片下面的文字，相当于对图片内容的解释。
 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加。如下图所示：
 ___
-![分割线](img/e.png "分割线")
+![e](https://user-images.githubusercontent.com/54888015/64938702-618d0480-d891-11e9-9486-b078f3710e1e.png)
 ## 六、超链接
 ___
-![分割线](img/g.png "超链接")
+![g](https://user-images.githubusercontent.com/54888015/64938692-5f2aaa80-d891-11e9-8704-faf89822c97d.png)
 ## 七、列表
 ___
 >1.无序列表，语法：无序列表用 - + * 任何一种都可以，注意：- + * 跟内容之间都要有1-4个空格都可以，最好一个。
@@ -57,7 +57,7 @@ ___
 +                列表内容
 -                列表内容
 ___
-  ![分割线](img/h.png "无序列表")
+  ![h](https://user-images.githubusercontent.com/54888015/64938693-5f2aaa80-d891-11e9-9b32-afe15b063504.png)
   >2.列表嵌套：上一级和下一级之间敲三个空格即可 1. 列表内容
 + 一级列表
    + 二级列表
@@ -66,7 +66,7 @@ ___
    + 二级列表
      + 三级列表
      ___
-      ![分割线](img/i.png "列表嵌套")
+      ![i](https://user-images.githubusercontent.com/54888015/64938694-5fc34100-d891-11e9-9c32-5d4bf414550b.png)
 ## 八、表格
 ___
 |表头1|表头3|表头3|
@@ -81,7 +81,7 @@ ___
 * :---:居中对齐
 * -----默认左对齐
 ___
-![分割线](img/j.png "表格")
+![j](https://user-images.githubusercontent.com/54888015/64938695-5fc34100-d891-11e9-9f09-ef18fbcfd023.png)
 ## 九、代码
 ___
 >1.单行代码：代码之间分别用一个反引号包起来
@@ -90,4 +90,4 @@ ___
 >2.多行代码：代码之间分别用三个反引号包起来，且两边的反引号单独占一行
 () const a = 10; console.log(a); ()
 ___
-![分割线](img/k.png "代码")
+![k](https://user-images.githubusercontent.com/54888015/64938696-605bd780-d891-11e9-8136-a9c7c930ab51.png)
