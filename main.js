@@ -4,6 +4,6 @@ var app = new Vue({
         name:null,
         age:null,
         sex:null,
-        foodList:['青枣','西红柿','苹果']
+        foodList:['肉包','三鲜包','菜包']
     }
 });
